@@ -1,0 +1,16 @@
+.centered-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0;
+  padding: 0;
+
+}
+img{
+    max-width: 100%;
+    height: auto;
+    max-height: 300px;
+    margin: 0; 
+    padding: 0;
+}
